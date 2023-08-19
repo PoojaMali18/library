@@ -1,0 +1,144 @@
+*
+{
+    color:black;
+    margin:0px;
+    padding:0px;
+}
+.nav
+{
+    background-color:#E6E6FA;
+    background-image: url("https://th.bing.com/th/id/R.e8c3c65956ffc4efabc89727c27ce13d?rik=d21u%2fQJ1zf6iWQ&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fab7sX4F.jpg&ehk=ITEaYphxvFP0k9%2fwmdpEfCToLg2%2fSVy8DKnSRi45cd0%3d&risl=&pid=ImgRaw&r=0");
+     background-size: cover;
+    color:white;
+    padding:15px;
+    position:sticky;
+    top:0px;
+    font-size:25px;
+    box-shadow:0px 0px 5px 3px black;
+}
+body
+{
+    background-size: cover;
+    background-image: url("https://kottke.org/plus/misc/images/poirier-libraries-02.jpg")
+}
+.nav>h2
+{
+    display:inline-block;
+    width:1200px;
+}
+
+.nav>a{
+    text-decoration:none;
+    padding:30px;
+    
+}
+
+#one
+{
+    margin-top:50px;
+    width:800px;
+    height:650px;
+    padding:10px;
+    box-shadow:0px 0px 5px 5px black;
+    
+    background-image: url("https://th.bing.com/th/id/R.e8c3c65956ffc4efabc89727c27ce13d?rik=d21u%2fQJ1zf6iWQ&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fab7sX4F.jpg&ehk=ITEaYphxvFP0k9%2fwmdpEfCToLg2%2fSVy8DKnSRi45cd0%3d&risl=&pid=ImgRaw&r=0");
+   background-size: cover;
+    
+}
+#two
+{
+    background-image: url("https://th.bing.com/th/id/R.e8c3c65956ffc4efabc89727c27ce13d?rik=d21u%2fQJ1zf6iWQ&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fab7sX4F.jpg&ehk=ITEaYphxvFP0k9%2fwmdpEfCToLg2%2fSVy8DKnSRi45cd0%3d&risl=&pid=ImgRaw&r=0");
+     background-size: cover;
+    margin-top:40px;
+    width:800px;
+    height:460px;
+    padding:10px;
+    box-shadow:0px 0px 5px 5px black;
+    
+}
+
+.fer
+{
+    height:600px;
+    width:700px;
+    border-color: beige;
+}
+.my-a
+{
+   color:black;
+}
+td
+{
+    text-align:center;
+    font-size:20px;
+}
+
+.mine
+{
+    align:center;
+    border-color: beige;
+}
+
+input[type="text"]
+ {
+    width: 700px;
+    border-radius:5px;
+    height:30px;
+}
+input[type="text"]:hover{
+    border-color:azure;
+}
+input[type="number"]:hover{
+    border-color:azure;
+}
+input[type="email"]:hover{
+    border-color:azure;
+}
+input[type="password"]:hover{
+    border-color:azure;
+}
+input[type="date"]:hover{
+    border-color:azure;
+}
+input[type="password"]
+ {
+    width: 700px;
+    border-radius:5px;
+    height:30px;
+}
+input[type="email"]
+ {
+    width: 700px;
+    border-radius:5px;
+    height:30px;
+}
+input[type="date"]
+ {
+    width: 700px;
+    border-radius:5px;
+    height:30px;
+}
+
+input[type="number"]
+ {
+    width: 700px;
+    border-radius:5px;
+    height:30px;
+}
+button
+ {
+    width: 700px;
+    border-radius:5px;
+    border:none;
+    background-color:black;
+    color:white;
+    height:30px;
+    font-size: 20px;
+}
+button:hover {
+    
+    background-color:#b3bfcf;
+    color:black;
+    height:30px;
+    cursor: pointer;
+}
